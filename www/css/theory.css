@@ -13,3 +13,9 @@ dl.info dd { margin: 0; }
 code {
     color: #000;
 }
+
+
+table.invisible, table.invisible td { border: none; }
+
+table.honorcode { width: 80%; margin: 0 auto; }
+table.honorcode td, table.honorcode th { border-style: none; padding: 12px 15px; }
